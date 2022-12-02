@@ -1,0 +1,83 @@
+[33mcommit a0d9d6cf12d2d5800fba1df33fb5ea1b09fbfc31[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ashish Chaudhary <tocttou@users.noreply.github.com>
+Date:   Sat Feb 1 13:55:29 2020 +0530
+
+    Update README.md
+
+[33mcommit 60b394204768f37e0afd544e6a4c800ee23a9d8a[m
+Author: Ashish Chaudhary <tocttou@users.noreply.github.com>
+Date:   Sat Feb 1 13:54:16 2020 +0530
+
+    Update README.md
+
+[33mcommit b707450be16617786635be7e62b1fb499fa8ce0c[m
+Author: Ashish Chaudhary <tocttou@users.noreply.github.com>
+Date:   Sat Feb 1 13:53:31 2020 +0530
+
+    Update README.md
+
+[33mcommit 2ef4956b722f32ad869aa5e8b8899da1715c01d7[m
+Author: Ashish Chaudhary <tocttou@users.noreply.github.com>
+Date:   Wed Jan 29 13:43:30 2020 +0530
+
+    Update README.md
+
+[33mcommit cd3167d13281d71f6dc79ba159ef5f1107e0bc06[m
+Author: Ashish Chaudhary <tocttou@users.noreply.github.com>
+Date:   Tue Jan 28 13:01:08 2020 +0530
+
+    Update _config.yml
+
+[33mcommit 65ebce88e9dffee7759366b19e01fb9b3bab2f48[m
+Author: Ashish Chaudhary <tocttou@users.noreply.github.com>
+Date:   Thu Jan 16 12:47:33 2020 +0530
+
+    Update README.md
+
+[33mcommit f44ce04db7e9607f81b67979019b7b9d3530e497[m
+Merge: bb82076 77e4ef9
+Author: Ashish Chaudhary <tocttou@users.noreply.github.com>
+Date:   Thu Apr 25 12:36:39 2019 +0530
+
+    Merge pull request #4 from MihajloNesic/master
+    
+    Better feed
+
+[33mcommit 77e4ef95cf9735488d69bad0c1d9d9bbf4456d93[m
+Author: Mihajlo Nešić <MihajloNesic@users.noreply.github.com>
+Date:   Mon Apr 22 13:36:14 2019 +0200
+
+    Better feed
+
+[33mcommit bb8207699e5281576868866bd6c96d64148b1e18[m
+Author: Ashish Chaudhary <me@ashishchaudhary.in>
+Date:   Sun Mar 18 12:30:14 2018 +0530
+
+    changed pagination path to /page/:num/ from /page:num/
+
+[33mcommit fdfc7b0ef7feda5c5cda6e36d1abb6276c1622ad[m
+Author: Ashish Chaudhary <me@ashishchaudhary.in>
+Date:   Sat Jan 6 19:01:00 2018 +0530
+
+    Changed:
+    1. Removed site.url from config and made all links depend on site.baseurl instead.
+
+[33mcommit 97586e26c29346485871f64a0f34ec4b445ace10[m
+Author: Ashish Chaudhary <me@ashishchaudhary.in>
+Date:   Sat Jan 6 12:27:18 2018 +0530
+
+    Fixed:
+    1.  Incorrect heading for previous year's posts in archive.md #1
+    2.  Blog year in footer (switched to current year from site.year
+
+[33mcommit 285b956c4972056714d5ccd7a64fd7ed2b49d043[m
+Author: Ashish Chaudhary <me@ashishchaudhary.in>
+Date:   Wed Dec 13 04:21:44 2017 +0530
+
+    added demo link and fixed main.css link
+
+[33mcommit d201ce8204a5c579e9d5139d6d6343f695f4dee6[m
+Author: Ashish Chaudhary <me@ashishchaudhary.in>
+Date:   Wed Dec 13 03:22:18 2017 +0530
+
+    initial commit
